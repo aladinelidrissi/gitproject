@@ -1,7 +1,7 @@
 package net.aladinidrissi.ComptaA;
 
 public class ComptaAs {
-	
+	/* Ara tambe diu quants dels caracters son numeros*/
 	private final static String[] a ={"cap","peu","cap","ma","llengua","ma","cap","ma","llengua","cap","ma"};
 
 	public static void main(String[] args) {
